@@ -9,8 +9,11 @@ A ruthless depiction of a city riddled with ops that have no time for talking, j
 W to move forward
 S to move backward
 A and D to move through the menu with W to select.
+<img width="630" alt="menu" src="https://user-images.githubusercontent.com/34945097/119360314-7cc03200-bc78-11eb-9c88-898ffea3e5c0.png">
+
 
 The character follows the direction of the mouse while key W is held.
 Left click with the mouse or trackpad to shoot
+<img width="633" alt="gameplay" src="https://user-images.githubusercontent.com/34945097/119360542-ba24bf80-bc78-11eb-9ce1-d2cf7ef2631f.png">
 
-<img width="630" alt="menu" src="https://user-images.githubusercontent.com/34945097/119360314-7cc03200-bc78-11eb-9c88-898ffea3e5c0.png">
+
