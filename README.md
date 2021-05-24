@@ -4,3 +4,13 @@ Processing 3 group project.
 
 My first ever Programming project completed with the help of Anders Sostenes (shout out to you for carrying the group as i was lost on certain concepts). 
 A ruthless depiction of a city riddled with ops that have no time for talking, just shooting. Conquer the city by defeating your enemies.
+
+
+W to move forward
+S to move backward
+A and D to move through the menu with W to select.
+
+The character follows the direction of the mouse while key W is held.
+Left click with the mouse or trackpad to shoot
+
+<img width="630" alt="menu" src="https://user-images.githubusercontent.com/34945097/119360314-7cc03200-bc78-11eb-9c88-898ffea3e5c0.png">
