@@ -2,6 +2,9 @@
 
 Processing 3 group project.
 
+To start project: 
+   -click on the City_2.pde file in the city_2 folder
+   
 My first ever Programming project completed with the help of Anders Sostenes (shout out to you for carrying the group as i was lost on certain concepts). 
 A ruthless depiction of a city riddled with ops that have no time for talking, just shooting. Conquer the city by defeating your enemies.
 
