@@ -3,6 +3,7 @@
 Processing 3 group project.
 
 To start project: 
+   - install processing from  https://processing.org/download/
    -click on the City_2.pde file in the city_2 folder
    
 My first ever Programming project completed with the help of Anders Sostenes (shout out to you for carrying the group as i was lost on certain concepts). 
