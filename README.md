@@ -7,7 +7,7 @@ To start project:
    
    -  click on the City_2.pde file in the city_2 folder
    
-My first ever Programming project completed with the help of Anders Sostenes (shout out to you for carrying the group as i was lost on certain concepts). 
+My first ever Programming project completed with the help of Anders Sostenes. 
 A ruthless depiction of a city riddled with ops that have no time for talking, just shooting. Liberate the city by defeating your enemies.
 
 
@@ -18,7 +18,9 @@ A and D to move through the menu with W to select.
 
 
 The character follows the direction of the mouse while key W is held.
-Left click with the mouse or trackpad to shoot
+Left click with the mouse or trackpad to shoot.
+
+
 <img width="633" alt="gameplay" src="https://user-images.githubusercontent.com/34945097/119360542-ba24bf80-bc78-11eb-9ce1-d2cf7ef2631f.png">
 
 
